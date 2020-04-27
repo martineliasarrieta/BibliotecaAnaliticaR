@@ -1,0 +1,13 @@
+Package: BibliotecaAnaliticaR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Martin Arrieta <mearrieta@sura.com.co>
+Maintainer: Martin Arrieta <mearrieta@sura.com.co>
+Description: Esta es una libreria con funciones para hacer carga, 
+    descarga y transformación de data en el data lake y data warehouse
+    de Sura.
+License: Uso empresarial de Sura
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
